@@ -1,0 +1,18 @@
+{
+  "name": "url",
+  "description": "Work around the awful url package colliding with a core node module",
+  "version": "0",
+  "author": "SegFaultx74",
+  "dependencies": {
+  },
+  "main": "./index.js",
+  "keywords": [
+  ],
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+  },
+  "license": "MIT"
+}
