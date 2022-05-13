@@ -1,7 +1,7 @@
 {
   "name": "url",
   "description": "Work around the awful url package colliding with a core node module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "SegFaultx74",
   "dependencies": {
   },
